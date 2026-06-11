@@ -1,2 +1,2 @@
 # Stochastic-Optimization-Algorithms
-Stochastic Optimization Algorithms Chalmers
+Stochastic Optimization Algorithms
